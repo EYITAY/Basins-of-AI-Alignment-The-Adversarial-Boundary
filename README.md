@@ -1,4 +1,4 @@
-# Basins of AI Alignment: The Adversarial Boundary — PyCon Greece 2026
+# Basins of AI Alignment: The Adversarial Boundary 
 
 Deterministic generative artwork modeling an asymmetric double‑well landscape.
 Mono and colour variants show contour/flow fields and probe points that settle into aligned vs misaligned minima.
@@ -46,4 +46,9 @@ An asymmetric double‑well potential defines two attractors: a wide, deep “al
 
 ## Author
 
-Eyitayo Alimi (Ali Mieyitayo). © 2026.
+Eyitayo Alimi — [www.alimieyitayo.com](https://www.alimieyitayo.com). © 2026.
+
+## License
+
+Code and artwork © Eyitayo Alimi — [www.alimieyitayo.com](https://www.alimieyitayo.com). Provided for review as part of a
+PyCon Greece 2026 submission; contact the author for reuse permissions.
