@@ -3,11 +3,15 @@
 Deterministic generative artwork modeling an asymmetric double‑well landscape.
 Mono and colour variants show contour/flow fields and probe points that settle into aligned vs misaligned minima.
 
+## CyberSecurity + AI Alignment Inspiration
+This piece treats AI alignment as a landscape, not a verdict. An asymmetric double-well potential defines two attractors — a wide, deep "aligned" basin and a narrower, shallower "misaligned" basin sitting right beside it, separated by a saddle ridge. Two starting points that look nearly identical can descend into opposite outcomes depending only on which side of that ridge they begin.
+This is a visual analogy for how a small adversarial perturbation can tip an otherwise well-behaved system across a boundary it never appeared close to. A field of 260 probes is scattered along the ridge itself and colour-coded by where each one lands, echoing the boundary-mapping a security red team performs when hunting for the smallest input that flips a system's behaviour. The piece is fully deterministic — same seed, same landscape, same probes, every run.
+
 ## Files
 
-- basins_mono.py — ink‑on‑aged‑paper rendering; markers distinguish basins
-- basins_color.py — full‑colour rendering with plasma colormap and neon attractors
-- requirements.txt — pinned dependencies (numpy, matplotlib)
+- basins_mono.py: ink‑on‑aged‑paper rendering; markers distinguish basins
+- basins_color.py: full‑colour rendering with plasma colormap and neon attractors
+- requirements.txt: pinned dependencies (numpy, matplotlib)
 
 ## Requirements
 
