@@ -1,11 +1,11 @@
 # Basins of AI Alignment: The Adversarial Boundary 
 
-Deterministic generative artwork modeling an asymmetric double‑well landscape.
+Deterministic generative artwork modelling an asymmetric double‑well landscape.
 Mono and colour variants show contour/flow fields and probe points that settle into aligned vs misaligned minima.
 
 ## CyberSecurity + AI Alignment Inspiration
 
-This piece grew out of a career-long habit of treating failure as a boundary to be mapped rather than an anomaly to be patched. After 15+ years in adversarial security — threat modeling, red-teaming, vulnerability assessment — I've come to see AI alignment the same way: not as a fixed property a system either has or doesn't, but as a landscape with stable and unstable regions, the way a network has hardened paths and exploitable ones. Here, an asymmetric double-well potential defines two attractors, a wide, deep "aligned" basin and a narrower "misaligned" basin sitting right beside it, separated by a saddle ridge. Two starting points that look nearly identical can descend into opposite outcomes depending only on which side of that ridge they begin. the same intuition behind a red team's search for the smallest input that flips a system's behavior. A field of 260 probes is scattered along the ridge and colour-coded by where each one lands, turning that boundary-mapping instinct into a visual artifact. The piece is fully deterministic — same seed, same landscape, same probes, every run.
+This piece grew out of a career-long habit of treating failure as a boundary to be mapped rather than an anomaly to be patched, after 15+ years in adversarial security, threat modelling, red-teaming, and vulnerability assessment. I've come to see AI alignment the same way: not as a fixed property a system either has or doesn't, but as a landscape with stable and unstable regions, the way a network has hardened paths and exploitable ones. Here, an asymmetric double-well potential defines two attractors, a wide, deep "aligned" basin and a narrower "misaligned" basin sitting right beside it, separated by a saddle ridge. Two starting points that look nearly identical can lead to opposite outcomes depending only on which side of that ridge they begin on. The same intuition behind a red team's search for the smallest input that flips a system's behavior. A field of 260 probes is scattered along the ridge and colour-coded by where each one lands, turning that boundary-mapping instinct into a visual artifact. The piece is fully deterministic — same seed, same landscape, same probes, every run.
 
 ## Files
 
